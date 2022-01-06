@@ -1,4 +1,4 @@
-                  Hi Everyone
+                                               Hi Everyone
 
 I newly started to learn JS so ı decide to create a weather project
 
